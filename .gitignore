@@ -1,0 +1,11 @@
+# 本地配置（每台机器不同，不要提交）
+config.json
+
+# 笔记库：如果库就建在仓库里，忽略它
+notes/
+
+# 杂项
+*.log
+.DS_Store
+Thumbs.db
+node_modules/
